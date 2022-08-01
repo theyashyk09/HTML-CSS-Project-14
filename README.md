@@ -3,8 +3,8 @@
 
 This one is a dance home page which created using HTML & CSS only as well. This website is currently not responsive but in coming weeks it will be responsive.
 ## Screenshot
-![img](./Project%2014.png)
 
+![Project 14](https://user-images.githubusercontent.com/109405477/182116532-61e3dc11-f019-48ba-bba9-f739e4f5fccb.png)
 
 ## Deployed Link
 
