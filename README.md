@@ -1,7 +1,7 @@
 
 # HTML & CSS PROJECT 14 ![img](https://img.shields.io/badge/PROJECT%2014-HTML%20%26%20CSS-orange)
 
-This one is a dance home page which created using HTML & CSS only as well. This website is currently not responsive but in coming weeks it will be responsive.
+This one is a dance home page which created is using HTML & CSS only as well. This website is currently not responsive but in coming weeks it will be responsive.
 ## Screenshot
 
 ![Project 14](https://user-images.githubusercontent.com/109405477/182116532-61e3dc11-f019-48ba-bba9-f739e4f5fccb.png)
