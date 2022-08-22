@@ -1,7 +1,7 @@
 
 # HTML & CSS PROJECT 14 ![img](https://img.shields.io/badge/PROJECT%2014-HTML%20%26%20CSS-orange)
 
-This one is a dance home page which created is using HTML & CSS only as well. This website is currently not responsive but in coming weeks it will be responsive.
+This one is a dance home page which created is using HTML & CSS only as well. This website is fully responsive.
 ## Screenshot
 
 ![Project 14](https://user-images.githubusercontent.com/109405477/182116532-61e3dc11-f019-48ba-bba9-f739e4f5fccb.png)
@@ -15,12 +15,12 @@ This one is a dance home page which created is using HTML & CSS only as well. Th
 
 1. I learned little bit about webkit.
 2. I learned how to make beautiful website.
-3. I think i have improved my googling since i used google alot whenever i was stuck in this project.
+3. I learned more about media queries.
 4. While doing any project i should take one thing at a time.
 5. I shouldn't hurry while doing projects.
 ## Time took to finish the project
 
-It took me 2 hours to finish this project and it was fun working on it.
+It took me 4 hours to finish this project and it was fun working on it.
 ## 🚀 About Me
 I'm Yash Kumar and i am aspiring to be a Full Stack Web Developer.
 
